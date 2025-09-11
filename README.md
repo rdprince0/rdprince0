@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rdprince0&label=Profile%20views&color=0e75b6&style=flat" alt="rdprince0" /> </p>
 
-- 🌱 I’m currently learning **Web Development, Framework etc.**
+- 🌱 I’m currently learning **Java Full Stack Development, Framework And libraries like Spring,Hibernate and React.js etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rdprince0](https://github.com/rdprince0)
 
