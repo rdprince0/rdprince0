@@ -20,6 +20,7 @@
   <a href="https://twitter.com/princer45077320" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="40"/></a>
   <a href="https://linkedin.com/in/prince-raj" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://facebook.com/rdyuvrajprince" target="_blank"><img src="https://skillicons.dev/icons?i=facebook" width="40"/></a>
+  <a href="https://facebook.com/rdyuvrajprince" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
   <a href="<h1 align="center">Hi 👋, I'm Prince Raj</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India 🇮🇳</h3>
 
