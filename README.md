@@ -59,9 +59,17 @@
 
 ## 📊 GitHub Stats  
 <h2 align="center">⚡ Stats ⚡</h2>
-  <div align=center>
-  <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=abhishekdumaniya&count_private=true&theme=react&border_radius=5" alt="streak stats"/>
-  <img width=375 src="https://github-readme-stats-salesp07.vercel.app/api?username=abhishekdumaniya&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=abhishekdumaniya&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+
+<p align="center">
+  <img width="400"
+       src="https://github-readme-streak-stats-salesp07.vercel.app/?user=prince-raj08&count_private=true&theme=react&border_radius=5" />
+  <img width="375"
+       src="https://github-readme-stats-salesp07.vercel.app/api?username=prince-raj08&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=5" />
+</p>
+
+<p align="center">
+  <img width="325"
+       src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=prince-raj08&hide=HTML&langs_count=10&layout=compact&theme=react&border_radius=5" />
+</p>
+
+
